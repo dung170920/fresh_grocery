@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-      <img src="https://github.com/dung170920/fresh_grocery/" alt="Project Banner">
+      <img src="https://github.com/dung170920/fresh_grocery/blob/main/public/preview.png" alt="Project Banner">
   <br />
 
   <div>
