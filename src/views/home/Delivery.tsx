@@ -8,7 +8,7 @@ export const Delivery = () => {
       <div className="flex items-center flex-col lg:flex-row gap-2 container">
         <div className="flex-1 w-full">
           <span className='subtitle'>#GroceryDeliveredSafely</span>
-          <h2 className='lg:mb-[76px] mb-6 mt-1'>Hygenically Packed,<br />Safely Delivered</h2>
+          <h2 className='lg:mb-[76px] mb-6 mt-1 max-w-[460px] leading-relaxed'>Hygenically Packed, Safely Delivered</h2>
           <Button>Learn More</Button>
         </div>
         <div className="flex-1">
